@@ -18,4 +18,11 @@ int main()
     outfile.open("D:\\semester 2\\pemrograman dasar\\pertemuan 14\\" + NamaFile + ".txt, ios::out)" );
 
     cout << ">= Menulis file, \'q\' untuk keluar" << endl;
+
+    //looping untuk menulis isi file
+    while (true)
+    {
+        cout << "- ";
+        
+    }
 }
