@@ -33,5 +33,9 @@ int main()
     //menutup file apabila telah selesai ditulis
     outfile.close();
 
+    //membuka file dalam mode membaca
+    ifstream infile;
     
+
+
 }
