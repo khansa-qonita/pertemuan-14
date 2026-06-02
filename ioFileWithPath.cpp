@@ -35,7 +35,11 @@ int main()
 
     //membuka file dalam mode membaca
     ifstream infile;
-    
+
+    //menunjuk ke sebuah file dengan ekstensi .txt
+    infile.open("D:\\semester 2\\pemrograman dasar\\pertemuan 14\\" + NamaFile + ".txt, ios::in)" );
+
+
 
 
 }
