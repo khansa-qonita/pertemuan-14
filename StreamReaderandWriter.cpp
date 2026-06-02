@@ -36,6 +36,11 @@ int main()
 
     cout << endl << ">= membuka dan membaca file" << endl;
 
+    //kondisi jika file ada
+    if (infile.is_open())
+    {
+        //
+    }
 
 
 
