@@ -39,6 +39,14 @@ int main()
     //menunjuk ke sebuah file dengan ekstensi .txt
     infile.open("D:\\semester 2\\pemrograman dasar\\pertemuan 14\\" + NamaFile + ".txt, ios::in)" );
 
+    cout << endl << ">= Membuka dan membaca file" << endl;
+    //kondisi jika file ada
+    if (infile.is_open())
+    {
+        
+    }
+
+
 
 
 
